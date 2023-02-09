@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 2f427b9a-a401-474f-98a3-6db29089e978
+      url: 'https://resonant-buttercream-c19a22.netlify.app'
