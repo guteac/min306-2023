@@ -1,3 +1,6 @@
 .idea
 
 **/*_files/
+/.quarto/
+_site
+*.html
